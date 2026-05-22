@@ -187,6 +187,14 @@ Each skill lives in `skills/<name>/` with a `SKILL.md` entry point. The `SKILL.m
 | `copywriting-prose-creator` | — | 201 | 4,786 | 23,565 |
 | `copywriting-tone-of-voice-creator` | — | 223 | 4,030 | 22,286 |
 
+## 🧪 Skill evaluations
+
+|             | With Skill | Without Skill | Delta     |
+| ----------- | ---------- | ------------- | --------- |
+| **Overall** | **99%**    | **50%**       | **+49pp** |
+
+See [EVALUATIONS.md](./EVALUATIONS.md) for the full per-skill breakdown.
+
 ## 📖 Skills description
 
 ### `chrome-extension`
@@ -264,14 +272,6 @@ Technical articles and blog posts for senior developers. Opinionated, practical,
 ### `training-report`
 
 Generates structured training reports from session data. Tracks progress, skills acquired, and outcomes.
-
-## 🧪 Skill evaluations
-
-|             | With Skill | Without Skill | Delta     |
-| ----------- | ---------- | ------------- | --------- |
-| **Overall** | **99%**    | **50%**       | **+49pp** |
-
-See [EVALUATIONS.md](./EVALUATIONS.md) for the full per-skill breakdown.
 
 ## 🎯 Tuning Skill Triggers
 
