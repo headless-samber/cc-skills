@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD029 -->
 # Discovery Questionnaire
 
 The exhaustive 80+ question bank. Group questions into AskUserQuestion batches (max 4 per call). The SKILL.md Phase 1 lists the minimum-viable subset; this file is the deep bank for high-stakes brands, multi-market work, or category audits.
